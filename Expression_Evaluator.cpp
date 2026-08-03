@@ -1,15 +1,12 @@
-// Expression Evaluator (Stack)
+// expression evaluator using stack
 
-// Concepts used:
-// * Stack
-// * Infix → Postfix conversion
-// * Parsing strings
 // Features:
 // * Take a mathematical expression from the user
 // * Convert infix to postfix (using stack)
 // * Evaluate postfix to produce result
 // * Handle brackets and operator precedence
 // * Display steps for learning purpose
+
 // Example:
 // Input: (3 + 4) * 2 → converts to 3 4 + 2 * → evaluates to 14
 
